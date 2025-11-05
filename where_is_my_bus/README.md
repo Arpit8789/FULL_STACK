@@ -1,7 +1,7 @@
 # 🚌 Where Is My Bus? - Smart Bus Tracking Platform
 
 A community-powered real-time bus tracking system that eliminates uncertainty in public transportation.
-
+DEPLOYED LINK : https://whereismy-bus.netlify.app/
 ## 📋 Project Information
 
 - **Student**: Arpit Anand (23BCS12710)
